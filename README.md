@@ -5,8 +5,6 @@ A Machine Learning based web application that predicts possible diseases based o
 Built using **Python, Scikit-Learn, and Streamlit**.
 **🚀 LIVE Demo:** [Try!](https://disease-prediction-ai-degx3tq3dozvjbzhbwgoa3.streamlit.app/)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://disease-prediction-ai-degx3tq3dozvjbzhbwgoa3.streamlit.app/)
-
 
 ## 🚀 Features
 
