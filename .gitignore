@@ -1,0 +1,5 @@
+__pycache__/
+dataset/          
+.DS_Store
+venv/
+disease_env/
